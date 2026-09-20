@@ -6,7 +6,7 @@ public class Metrics {
     private int currentDepth;
     private long startTime;
     private long elapsedTimeNs;
-
+    git branch -m main
     public Metrics() {
         reset();
     }
